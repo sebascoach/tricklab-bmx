@@ -9,9 +9,11 @@
     "preview": "vite preview --host 0.0.0.0 --port 4173"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.57.0",
+    "@supabase/functions-js": "^2.112.4",
+    "@supabase/supabase-js": "^2.112.4",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "scheduler": "^0.27.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.2",
